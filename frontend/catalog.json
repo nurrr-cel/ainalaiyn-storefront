@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "id": "almond",
+      "name": "Тёплый миндаль",
+      "material": "Натуральная кожа",
+      "description": "Мягкая фактурная кожа тёплого оттенка.",
+      "category": "Кожа",
+      "price": 10000,
+      "available": true,
+      "color": "#bd9375",
+      "swatch": "linear-gradient(140deg,#d6b392,#ad8061)"
+    },
+    {
+      "id": "sage",
+      "name": "Лесной шалфей",
+      "material": "Натуральная кожа",
+      "description": "Спокойный природный оттенок.",
+      "category": "Кожа",
+      "price": 10500,
+      "available": true,
+      "color": "#78836d",
+      "swatch": "linear-gradient(140deg,#9ca18b,#65735d)"
+    },
+    {
+      "id": "rose",
+      "name": "Пыльная роза",
+      "material": "Натуральная кожа",
+      "description": "Приглушённый розовый оттенок.",
+      "category": "Кожа",
+      "price": 10500,
+      "available": true,
+      "color": "#aa7c78",
+      "swatch": "linear-gradient(140deg,#c49c96,#936a67)"
+    },
+    {
+      "id": "night",
+      "name": "Ночной синий",
+      "material": "Натуральная кожа",
+      "description": "Глубокий синий оттенок.",
+      "category": "Кожа",
+      "price": 10500,
+      "available": false,
+      "color": "#55627b",
+      "swatch": "linear-gradient(140deg,#778399,#48546d)"
+    },
+    {
+      "id": "gold",
+      "name": "Тёплое золото",
+      "material": "Металлическая фурнитура",
+      "description": "Тёплый золотистый оттенок.",
+      "category": "Фурнитура",
+      "price": 0,
+      "available": true,
+      "metal": "linear-gradient(140deg,#f5dfa1,#bb9345)",
+      "symbol": "◉"
+    },
+    {
+      "id": "silver",
+      "name": "Матовый никель",
+      "material": "Металлическая фурнитура",
+      "description": "Сдержанный серебристый оттенок.",
+      "category": "Фурнитура",
+      "price": 0,
+      "available": true,
+      "metal": "linear-gradient(140deg,#fbfbf7,#aaaead)",
+      "symbol": "◉"
+    },
+    {
+      "id": "brass",
+      "name": "Старая латунь",
+      "material": "Металлическая фурнитура",
+      "description": "Винтажная латунная фурнитура.",
+      "category": "Фурнитура",
+      "price": 0,
+      "available": false,
+      "metal": "linear-gradient(140deg,#c6aa70,#82623a)",
+      "symbol": "◉"
+    },
+    {
+      "id": "moon",
+      "name": "Луна",
+      "material": "Металлический шармик",
+      "description": "Шармик в форме полумесяца.",
+      "category": "Шармики",
+      "price": 1500,
+      "available": true,
+      "symbol": "☾"
+    },
+    {
+      "id": "leaf",
+      "name": "Листочек",
+      "material": "Металлический шармик",
+      "description": "Небольшой шармик-листочек.",
+      "category": "Шармики",
+      "price": 1200,
+      "available": true,
+      "symbol": "❧"
+    },
+    {
+      "id": "star",
+      "name": "Звёздочка",
+      "material": "Металлический шармик",
+      "description": "Маленький шармик-звёздочка.",
+      "category": "Шармики",
+      "price": 1500,
+      "available": false,
+      "symbol": "✦"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "a5",
+      "name": "A5",
+      "dimensions": "15 × 21 см",
+      "priceAdjustment": 0,
+      "available": true
+    },
+    {
+      "id": "a6",
+      "name": "A6",
+      "dimensions": "10 × 15 см",
+      "priceAdjustment": 0,
+      "available": true
+    }
+  ],
+  "whatsapp": "87089062909"
+}
